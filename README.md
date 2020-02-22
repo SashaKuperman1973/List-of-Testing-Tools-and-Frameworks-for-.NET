@@ -264,6 +264,7 @@ Key:
 | [NBuilder](https://github.com/nbuilder/nbuilder) |
 | [NTestDataBuilder](https://www.nuget.org/packages/NTestDataBuilder/) | - Now TestStack.Dossier<br />- Discontinued
 | [TestData](https://github.com/kiandra-it/test-data) |
+| [TestDataFramework](https://github.com/SashaKuperman1973/TestDataFramework) |
 | [TestDataFactory](https://github.com/titarenko/TestDataFactory) | Discontinued
 | [TestDataGenerator](https://github.com/etishor/TestDataGenerator) | Discontinued
 | [TestStack.Dossier](http://dossier.teststack.net/)
